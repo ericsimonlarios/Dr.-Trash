@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Dr.Trash</string>
+
+    <string name="search_hint">Find your garbage here...</string>
+
+    <string-array name="typeWasteSpinner">
+
+        <item> Solid </item>
+        <item> Liquid </item>
+        <item> Organic </item>
+        <item> Hazardous </item>
+
+    </string-array>
+
+    <string name ="solid_info">
+
+        <b>Solid waste</b> is any garbage, sludge, and refuse found in industrial and commercial locations. The <b>five</b> major types of solid rubbish are;
+        \n\n<li><b>Glass and Ceramics:</b></li> Numerous companies readily recycle ceramics and glass. The catch here is that you have to dispose of them correctly.
+        \n\n<li><b>Plastic waste:</b></li> Plastic waste is any container, jar, bottle, and bag that is found in companies and houses. Plastics are non-biodegradable, and most of them cannot be recycled. Do not mix plastic rubbish with regular waste. Instead, sort them out before throwing them away.
+        \n\n<li><b>Paper rubbish:</b></li> This refers to all newspapers, packaging materials, cardboards, and other paper products. Paper is recyclable.
+        \n\n<li><b>Metal and Tins:</b></li> You can easily find tins and metals in homes because food containers and household materials are made from them. Most metals are recyclable, so take them to a scrap yard or recycling depot after use. You should get a skip hire and use it to transport your solid waste.
+
+    </string>
+    
+    <string name="organic_info"><b>Organic waste</b> refers to rotten meat, garden and food waste. This type of rubbish is commonly found in homes. With time, they decompose and turn into manure by the action of microorganisms on them. But be careful; you should not dispose of them anywhere you like.\n\nWhen decomposing, organic waste produces methane, so, it must not be thrown away with regular waste. Instead, get a green bin and dispose of this type of waste properly.</string>
+
+    <string name="hazardous_info"><b>Hazardous waste</b> includes flammable, corrosive, toxic and reactive materials. In a nutshell, they are wastes that pose a significant or potential threat to our environment.</string>
+
+    <string name="liquid_info"><div><b>Liquid waste</b> refers to all grease, oil, sludges, wash water, waste detergents and dirty water that have been thrown away. They are hazardous and poisonous to our environment and are found in industries as well as households. <b>Wastewater</b>, as it is often called, is any waste that exists in liquid form.</div>\n\n<div>There are two categories of liquid waste: <b>non-point</b> and <b>point source</b> waste. Manufactured liquid wastes are called <b>point source</b>, and <b>non-point source</b> wastes occur naturally in our environment.</div></string>
+
+    <string-array name="classWasteSpinner">
+
+        <item> Industrial </item>
+        <item> Commercial </item>
+        <item> Agricultural </item>
+        <item> Domestic </item>
+
+    </string-array>
+
+    <string name="industrial_info">These are the wastes created in factories and industries. Most industries dump their wastes in rivers and seas which cause a lot of pollution.\n\n<b>Example</b>: plastic, glass, etc.</string>
+
+    <string name="commercial_info">Commercial wastes are produced in schools, colleges, shops, and offices.\n\n<b>Example</b>: plastic, paper, etc.</string>
+
+    <string name="domestic_info">The different household wastes which are collected during household activities like cooking, cleaning, etc. are known as domestic wastes.\n\n<b>Example</b>: leaves, vegetable peels, excreta, etc.</string>
+
+    <string name="agricultural_info">Various wastes produced in the agricultural field are known as agricultural wastes.\n\n<b>Example</b>: cattle waste, weed, husk, etc.</string>
+   
+    <string name="glass_info">Numerous companies readily recycle ceramics and glass. The catch here is that you have to dispose of them correctly.</string>
+    
+    <string name="plastic_info">Plastic waste is any container, jar, bottle, and bag that is found in companies and houses. <b>Plastics are non-biodegradable</b>, and most of them cannot be recycled. Do not mix plastic rubbish with regular waste. Instead, sort them out before throwing them away.</string>
+    
+    <string name="paper_info">This refers to all newspapers, packaging materials, cardboards, and other paper products. <b>Paper is recyclable</b>.</string>
+
+    <string name="metal_info">You can easily find tins and metals in homes because food containers and household materials are made from them. <b>Most metals are recyclable</b>, so take them to a scrap yard or recycling depot after use. You should get a skip hire and use it to transport your solid waste.</string>
+
+    <string name="bio_info">These are the wastes that come from our kitchen and it includes food remains, garden waste, etc. Biodegradable waste is also known as <b>moist waste</b>. This can be composted to obtain manure. Biodegradable wastes decompose themselves over a period of time depending on the material.</string>
+
+    <string name="nonBio_info">These are the wastes which include old newspapers, broken glass pieces, plastics, etc. Non-biodegradable waste is known as <b>dry waste</b>. Dry wastes can be recycled and can be reused. Non-biodegradable wastes do not decompose by themselves and hence are major pollutants.</string>
+
+    <string name="nonOrBio_info">The type of waste varies on how was this object made. Please check the item packaging for more information.</string>
+    <string-array name="Options">
+
+        <item> Biodegradable </item>
+        <item> Non-Biodegradable </item>
+        <item> Biodegradable or Non-Biodegradable </item>
+
+    </string-array>
+
+</resources>

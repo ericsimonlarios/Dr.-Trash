@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90264040418",
+    "project_id": "drtrash-94698",
+    "storage_bucket": "drtrash-94698.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90264040418:android:e3c8ab57cd84aa042a7fbb",
+        "android_client_info": {
+          "package_name": "com.example.drtrash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90264040418-e5gk8d6sslrmjfmfajo22cisun54s8t6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQ2MLB_u4GbAwyyN4cY4E3B6IgBch85I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90264040418-e5gk8d6sslrmjfmfajo22cisun54s8t6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
